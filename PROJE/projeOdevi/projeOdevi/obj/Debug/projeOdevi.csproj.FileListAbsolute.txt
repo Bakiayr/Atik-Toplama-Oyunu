@@ -1,0 +1,10 @@
+C:\Users\Abdülbaki Ayar\source\repos\projeOdevi\projeOdevi\bin\Debug\projeOdevi.exe.config
+C:\Users\Abdülbaki Ayar\source\repos\projeOdevi\projeOdevi\bin\Debug\projeOdevi.exe
+C:\Users\Abdülbaki Ayar\source\repos\projeOdevi\projeOdevi\bin\Debug\projeOdevi.pdb
+C:\Users\Abdülbaki Ayar\source\repos\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csprojAssemblyReference.cache
+C:\Users\Abdülbaki Ayar\source\repos\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Form1.resources
+C:\Users\Abdülbaki Ayar\source\repos\projeOdevi\projeOdevi\obj\Debug\projeOdevi.Properties.Resources.resources
+C:\Users\Abdülbaki Ayar\source\repos\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.GenerateResource.cache
+C:\Users\Abdülbaki Ayar\source\repos\projeOdevi\projeOdevi\obj\Debug\projeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\Abdülbaki Ayar\source\repos\projeOdevi\projeOdevi\obj\Debug\projeOdevi.exe
+C:\Users\Abdülbaki Ayar\source\repos\projeOdevi\projeOdevi\obj\Debug\projeOdevi.pdb
